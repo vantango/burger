@@ -4,6 +4,8 @@
     
 ## Description: 
 An app that utilizes MySQL, Node, Express, and ORM to add, devour, and reorder any burger you like!
+
+<img src="https://github.com/vantango/burger/blob/main/public/assets/img/Burger_Devourer.PNG?raw=true" alt="burger_devourer_screenshot" style="max-width: 60%">
             
 ## Table of Contents
 - [Installation](#Installation)
@@ -35,6 +37,11 @@ N/A
             
 ### Tests: 
 N/A
+
+### Deployment:
+Deployment: https://thawing-journey-94918.herokuapp.com/
+
+Repository: https://github.com/vantango/burger
             
 ### Questions:
 Find me on GitHub at: https://github.com/vantango
