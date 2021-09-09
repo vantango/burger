@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 ## Description: 
-An app that utilizes MySQL, Node, Express, and ORM to add, devour, and reorder any burger you like!
+An app that utilizes MySQL, Node, Express, Handlebars, and ORM to add, devour, and reorder any burger you like!
 
 <img src="https://github.com/vantango/burger/blob/main/public/assets/img/Burger_Devourer.PNG?raw=true" alt="burger_devourer_screenshot" style="max-width: 60%">
             
